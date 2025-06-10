@@ -1,3 +1,4 @@
 🔒 A free, open-source platform dedicated to understand and secure GraphQL applic
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# clarify the control flow
