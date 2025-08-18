@@ -8,3 +8,4 @@ Notes and usage details for graphql-security-academy.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
