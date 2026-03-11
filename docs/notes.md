@@ -23,3 +23,4 @@ Notes and usage details for graphql-security-academy.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- link the usage section
